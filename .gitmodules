@@ -1,0 +1,6 @@
+[submodule "test_local"]
+	path = test_local
+	url = https://github.com/N2Sys-EDU/lab3-test.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/N2Sys-EDU/Lab3-Documentation.git
